@@ -1,0 +1,2 @@
+rootProject.name = "Driver's License"
+include ':app'
